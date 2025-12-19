@@ -3,5 +3,7 @@
 
 ### Project Structure
 - Data
+  - processed
+  - raw
 - notebooks
 - results
